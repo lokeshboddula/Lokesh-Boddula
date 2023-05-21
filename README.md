@@ -3,7 +3,7 @@
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="350" height="350">
 - 🔭 I’m currently working on **Spring Boot**
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **Ecommerce Backend Application**
 
 - 👯 I’m looking to collaborate on **Backend Projects**
 
